@@ -1,0 +1,81 @@
+{
+    "stamp": "by 5f8faded424af9f7fa64eca1 at 29 октября 2020 г. 3:48:20",
+    "appId": "5f988a5b759e6300084a58fd",
+    "appName": "Cyberdrunk",
+    "versionId": "5f988a5b759e6300084a58fe",
+    "versionStatus": 0,
+    "versionSeq": 0,
+    "sdkRev": "2000",
+    "scenesList": [
+        {
+            "sceneName": "SomeScene",
+            "id": "5f988a6626132c00090df60d",
+            "currentScenePath": "Assets/Scenes/SomeScene.unity",
+            "pathsHistory": [
+                "Assets/Scenes/SomeScene.unity"
+            ],
+            "placementsList": [
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9657cea8d42a8b60ac4",
+                    "idInFile": 674922403,
+                    "placementType": 0,
+                    "placementId": "5f988a6a8e04dd000743aee3",
+                    "placementName": "1Sf0ulUhaPheMKZTCW1J",
+                    "placementDisplayName": "Banner_food",
+                    "sceneId": "5f988a6626132c00090df60d",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 600.0
+                    }
+                },
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9657cea8d42a8b60ac4",
+                    "idInFile": 1230414491,
+                    "placementType": 0,
+                    "placementId": "5f988a6a8e04dd000743aee4",
+                    "placementName": "mzqyIk6j9J5IM5cSlRrV",
+                    "placementDisplayName": "Banner_technology",
+                    "sceneId": "5f988a6626132c00090df60d",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 600.0
+                    }
+                },
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9657cea8d42a8b60ac4",
+                    "idInFile": 1902315367,
+                    "placementType": 0,
+                    "placementId": "5f988a6a8e04dd000743aee5",
+                    "placementName": "IgBYWjfk8DRdMooS5MS8",
+                    "placementDisplayName": "Banner_science",
+                    "sceneId": "5f988a6626132c00090df60d",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 600.0
+                    }
+                },
+                {
+                    "isSavedPlacement": false,
+                    "invalidReason": "id clone",
+                    "modelKey": "5ee7e9657cea8d42a8b60ac4",
+                    "idInFile": 1790885728,
+                    "placementType": 0,
+                    "placementId": "5f9a115333a43c0008d64a3b",
+                    "placementName": "dXFcRBfgBXpsHaW0Gox8",
+                    "placementDisplayName": "Banner_food",
+                    "sceneId": "5f988a6626132c00090df60d",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 600.0
+                    }
+                }
+            ]
+        }
+    ]
+}

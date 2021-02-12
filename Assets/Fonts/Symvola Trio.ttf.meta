@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 93a8e86d1dfe6ec4eae504399bc5fe24
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Symvola
+  fontNames:
+  - Symvola
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 00dfc3311fca1ca4ea51f4761d7c85e4, type: 3}
+  - {fileID: 12800000, guid: 62983eea17d6b844b970f720b9751a0f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

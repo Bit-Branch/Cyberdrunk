@@ -1,0 +1,2045 @@
+fileFormatVersion: 2
+guid: 844bbeefc8d533b4f9ad8510667c741a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8222262177609364231
+    second: cyber (1)_0
+  - first:
+      213: -7045249228320574488
+    second: cyber (1)_1
+  - first:
+      213: 476611648974643754
+    second: cyber (1)_2
+  - first:
+      213: 7857608919403896382
+    second: cyber (1)_3
+  - first:
+      213: 6692536706737555946
+    second: cyber (1)_4
+  - first:
+      213: -8421955966192381694
+    second: cyber (1)_5
+  - first:
+      213: -3966131274655288013
+    second: cyber (1)_6
+  - first:
+      213: -4507668818336634330
+    second: cyber (1)_7
+  - first:
+      213: 8326183662469741855
+    second: cyber (1)_8
+  - first:
+      213: 1504544197914952262
+    second: cyber (1)_9
+  - first:
+      213: -7769918893678092930
+    second: cyber (1)_10
+  - first:
+      213: 4385159078272841657
+    second: cyber (1)_11
+  - first:
+      213: -6437565145126460111
+    second: cyber (1)_12
+  - first:
+      213: 2837731312991088073
+    second: cyber (1)_13
+  - first:
+      213: -3701417807258117961
+    second: cyber (1)_14
+  - first:
+      213: -8125782629916610304
+    second: cyber (1)_15
+  - first:
+      213: -5643458942225106135
+    second: cyber (1)_16
+  - first:
+      213: 48823068897898443
+    second: cyber (1)_17
+  - first:
+      213: -7471720449547419174
+    second: cyber (1)_18
+  - first:
+      213: 8867416345293529259
+    second: cyber (1)_19
+  - first:
+      213: -5096749138993689034
+    second: cyber (1)_20
+  - first:
+      213: -5621547100043145167
+    second: cyber (1)_21
+  - first:
+      213: -1459844625471450158
+    second: cyber (1)_22
+  - first:
+      213: 792725003246562950
+    second: cyber (1)_23
+  - first:
+      213: 2970446391852899423
+    second: cyber (1)_24
+  - first:
+      213: 494675858969626764
+    second: cyber (1)_25
+  - first:
+      213: -3862093927585861330
+    second: cyber (1)_26
+  - first:
+      213: 868628406067639426
+    second: cyber (1)_27
+  - first:
+      213: -7929889178484411628
+    second: cyber (1)_28
+  - first:
+      213: 2367144150377348348
+    second: cyber (1)_29
+  - first:
+      213: 753017923861602047
+    second: cyber (1)_30
+  - first:
+      213: 2584373116567768923
+    second: cyber (1)_31
+  - first:
+      213: 2943260805213456487
+    second: cyber (1)_32
+  - first:
+      213: 7246169490201323854
+    second: cyber (1)_33
+  - first:
+      213: 810871713959259688
+    second: cyber (1)_34
+  - first:
+      213: 3873241878166860950
+    second: cyber (1)_35
+  - first:
+      213: -5499904911706530517
+    second: cyber (1)_36
+  - first:
+      213: 434034797670438102
+    second: cyber (1)_37
+  - first:
+      213: 884983984126695250
+    second: cyber (1)_38
+  - first:
+      213: 5619821895835862824
+    second: cyber (1)_39
+  - first:
+      213: -3027809564999687690
+    second: cyber (1)_40
+  - first:
+      213: 1377774888312744166
+    second: cyber (1)_41
+  - first:
+      213: 8631688572161902056
+    second: cyber (1)_42
+  - first:
+      213: 4353456518312395150
+    second: cyber (1)_43
+  - first:
+      213: -4267162611203399898
+    second: cyber (1)_44
+  - first:
+      213: 1463275915011337127
+    second: cyber (1)_45
+  - first:
+      213: 6772504396842197853
+    second: cyber (1)_46
+  - first:
+      213: -3313919619289232197
+    second: cyber (1)_47
+  - first:
+      213: -7538785009568466467
+    second: cyber (1)_48
+  - first:
+      213: -7919468117158794257
+    second: cyber (1)_49
+  - first:
+      213: -899213104301858453
+    second: cyber (1)_50
+  - first:
+      213: 5446880272512412762
+    second: cyber (1)_51
+  - first:
+      213: 2842998657256515565
+    second: cyber (1)_52
+  - first:
+      213: 432116172210028082
+    second: cyber (1)_53
+  - first:
+      213: 4237212283887798817
+    second: cyber (1)_54
+  - first:
+      213: -7105939438205180723
+    second: cyber (1)_55
+  - first:
+      213: 8444038734089727908
+    second: cyber (1)_56
+  - first:
+      213: -6968865799525746114
+    second: cyber (1)_57
+  - first:
+      213: 8676199700284945682
+    second: cyber (1)_58
+  - first:
+      213: 3209689725473098782
+    second: cyber (1)_59
+  - first:
+      213: 5518380076424380407
+    second: cyber (1)_60
+  - first:
+      213: 2807757782929777045
+    second: cyber (1)_61
+  - first:
+      213: -6852096936603752889
+    second: cyber (1)_62
+  - first:
+      213: -2647911803130362631
+    second: cyber (1)_63
+  - first:
+      213: -281396552214443877
+    second: cyber (1)_64
+  - first:
+      213: -1594610482242158154
+    second: cyber (1)_65
+  - first:
+      213: -6722949255418000818
+    second: cyber (1)_66
+  - first:
+      213: 7775360074240402136
+    second: cyber (1)_67
+  - first:
+      213: 98938181284656679
+    second: cyber (1)_68
+  - first:
+      213: 153371518719317877
+    second: cyber (1)_69
+  - first:
+      213: 6156031231952397315
+    second: cyber (1)_70
+  - first:
+      213: 473269987002473195
+    second: cyber (1)_71
+  - first:
+      213: -935923923330813900
+    second: cyber (1)_72
+  - first:
+      213: -4137707240277665401
+    second: cyber (1)_73
+  - first:
+      213: 7142507774697449079
+    second: cyber (1)_74
+  - first:
+      213: -2887357280062389758
+    second: cyber (1)_75
+  - first:
+      213: -4652841499315571346
+    second: cyber (1)_76
+  - first:
+      213: 5251760434138460179
+    second: cyber (1)_77
+  - first:
+      213: 8318484599853636085
+    second: cyber (1)_78
+  - first:
+      213: 7203387440366229289
+    second: cyber (1)_79
+  - first:
+      213: 5766623999319784562
+    second: cyber (1)_80
+  - first:
+      213: -5918528629069610096
+    second: cyber (1)_81
+  - first:
+      213: -2538332211621562704
+    second: cyber (1)_82
+  - first:
+      213: 4816360431627424085
+    second: cyber (1)_83
+  - first:
+      213: -4941400157962223873
+    second: cyber (1)_84
+  - first:
+      213: -2187574690411375512
+    second: cyber (1)_85
+  - first:
+      213: -8263740451958680509
+    second: cyber (1)_86
+  - first:
+      213: 129715086838179295
+    second: cyber (1)_87
+  - first:
+      213: -108689110269262169
+    second: cyber (1)_88
+  - first:
+      213: -2372992113376125483
+    second: cyber (1)_89
+  - first:
+      213: -1810438612123226331
+    second: cyber (1)_90
+  - first:
+      213: -1332300437680850341
+    second: cyber (1)_91
+  - first:
+      213: 1688353017037146606
+    second: cyber (1)_92
+  - first:
+      213: 7123148054489094269
+    second: cyber (1)_93
+  - first:
+      213: 4911348248414120436
+    second: cyber (1)_94
+  - first:
+      213: -5426917703548985768
+    second: cyber (1)_95
+  - first:
+      213: 754825948957251867
+    second: cyber (1)_96
+  - first:
+      213: 6113146399457420794
+    second: cyber (1)_97
+  - first:
+      213: -7054180130723005403
+    second: cyber (1)_98
+  - first:
+      213: -4239544453635463860
+    second: cyber (1)_99
+  - first:
+      213: 5315474516283096766
+    second: cyber (1)_100
+  - first:
+      213: -2409702469507960777
+    second: cyber (1)_101
+  - first:
+      213: -9204363361126577295
+    second: cyber (1)_102
+  - first:
+      213: -7897880453070209081
+    second: cyber (1)_103
+  - first:
+      213: -2161210475997026642
+    second: cyber (1)_104
+  - first:
+      213: -7298534563939557342
+    second: cyber (1)_105
+  - first:
+      213: 191487472571246658
+    second: cyber (1)_106
+  - first:
+      213: 2693068483450828575
+    second: cyber (1)_107
+  - first:
+      213: -6012800411432748973
+    second: cyber (1)_108
+  - first:
+      213: -8286573766838607914
+    second: cyber (1)_109
+  - first:
+      213: 7652139147818079765
+    second: cyber (1)_110
+  - first:
+      213: 4032218496670029007
+    second: cyber (1)_111
+  - first:
+      213: -5707056153468734750
+    second: cyber (1)_112
+  - first:
+      213: -1459127047279873976
+    second: cyber (1)_113
+  - first:
+      213: -5536832377315001991
+    second: cyber (1)_114
+  - first:
+      213: 7549521757881710636
+    second: cyber (1)_115
+  - first:
+      213: -2860635834180367054
+    second: cyber (1)_116
+  - first:
+      213: -3753351204175320911
+    second: cyber (1)_117
+  - first:
+      213: 7537721320045973651
+    second: cyber (1)_118
+  - first:
+      213: -8422031619954084916
+    second: cyber (1)_119
+  - first:
+      213: -2826786994621046215
+    second: cyber (1)_120
+  - first:
+      213: -1508482736822090574
+    second: cyber (1)_121
+  - first:
+      213: -5096209511669120750
+    second: cyber (1)_122
+  - first:
+      213: 6115216784992560427
+    second: cyber (1)_123
+  - first:
+      213: 7626799816453313071
+    second: cyber (1)_124
+  - first:
+      213: -5693524072873527292
+    second: cyber (1)_125
+  - first:
+      213: -8872882671914249199
+    second: cyber (1)_126
+  - first:
+      213: -8209494463507525831
+    second: cyber (1)_127
+  - first:
+      213: -5391227310176293572
+    second: cyber (1)_128
+  - first:
+      213: 7772346234316581275
+    second: cyber (1)_129
+  - first:
+      213: 9148291798064873823
+    second: cyber (1)_130
+  - first:
+      213: -305141688835919632
+    second: cyber (1)_131
+  - first:
+      213: -345964742095428381
+    second: cyber (1)_132
+  - first:
+      213: 1942063911668770325
+    second: cyber (1)_133
+  - first:
+      213: 8915451880853995920
+    second: cyber (1)_134
+  - first:
+      213: 5546298420831035363
+    second: cyber (1)_135
+  - first:
+      213: 2471318585324216470
+    second: cyber (1)_136
+  - first:
+      213: -7640102974274213957
+    second: cyber (1)_137
+  - first:
+      213: 386774285894589717
+    second: cyber (1)_138
+  - first:
+      213: -4176353443344393227
+    second: cyber (1)_139
+  - first:
+      213: -1530122995782542883
+    second: cyber (1)_140
+  - first:
+      213: -1067116600293062911
+    second: cyber (1)_141
+  - first:
+      213: -1394960813189984961
+    second: cyber (1)_142
+  - first:
+      213: -8842955028079202560
+    second: cyber (1)_143
+  - first:
+      213: 1913887935728883818
+    second: cyber (1)_144
+  - first:
+      213: 7199347274043630651
+    second: cyber (1)_145
+  - first:
+      213: -8547063657802801266
+    second: cyber (1)_146
+  - first:
+      213: 1324222846126590645
+    second: cyber (1)_147
+  - first:
+      213: 3732116648217206517
+    second: cyber (1)_148
+  - first:
+      213: 6941345542824368513
+    second: cyber (1)_149
+  - first:
+      213: -3396683050621462852
+    second: cyber (1)_150
+  - first:
+      213: -8419292253527969983
+    second: cyber (1)_151
+  - first:
+      213: 5168616255531044024
+    second: cyber (1)_152
+  - first:
+      213: 6821108345306174118
+    second: cyber (1)_153
+  - first:
+      213: 7360586252654484730
+    second: cyber (1)_154
+  - first:
+      213: -757921725402203044
+    second: cyber (1)_155
+  - first:
+      213: -6992029124483597624
+    second: cyber (1)_156
+  - first:
+      213: -3399226145721296990
+    second: cyber (1)_157
+  - first:
+      213: -5252423902006852161
+    second: cyber (1)_158
+  - first:
+      213: -1716996547520883864
+    second: cyber (1)_159
+  - first:
+      213: -4631167559989431424
+    second: cyber (1)_160
+  - first:
+      213: -4824876039256697681
+    second: cyber (1)_161
+  - first:
+      213: 8216456302560979624
+    second: cyber (1)_162
+  - first:
+      213: 6834271962750559579
+    second: cyber (1)_163
+  - first:
+      213: -8772210285545554671
+    second: cyber (1)_164
+  - first:
+      213: -3083309194205093925
+    second: cyber (1)_165
+  - first:
+      213: 5812060358549220515
+    second: cyber (1)_166
+  - first:
+      213: 4091960525230637879
+    second: cyber (1)_167
+  - first:
+      213: 2051888695198259877
+    second: cyber (1)_168
+  - first:
+      213: -57341441873737803
+    second: cyber (1)_169
+  - first:
+      213: -8809810111913140956
+    second: cyber (1)_170
+  - first:
+      213: -62258613276261475
+    second: cyber (1)_171
+  - first:
+      213: -6644582723221245088
+    second: cyber (1)_172
+  - first:
+      213: 3780001319582045200
+    second: cyber (1)_173
+  - first:
+      213: -2031760191495349080
+    second: cyber (1)_174
+  - first:
+      213: -3482932753277417762
+    second: cyber (1)_175
+  - first:
+      213: -4114296050632704063
+    second: cyber (1)_176
+  - first:
+      213: 7142900793403870714
+    second: cyber (1)_177
+  - first:
+      213: 3908698831176935176
+    second: cyber (1)_178
+  - first:
+      213: -6001341649504618787
+    second: cyber (1)_179
+  - first:
+      213: 2728477205747218902
+    second: cyber (1)_180
+  - first:
+      213: -3089111601557061431
+    second: cyber (1)_181
+  - first:
+      213: -6526512347657631172
+    second: cyber (1)_182
+  - first:
+      213: -8520342027620971714
+    second: cyber (1)_183
+  - first:
+      213: -5509191633693192505
+    second: cyber (1)_184
+  - first:
+      213: 3481816755821513259
+    second: cyber (1)_185
+  - first:
+      213: 393611621342306281
+    second: cyber (1)_186
+  - first:
+      213: -7454670837908935507
+    second: cyber (1)_187
+  - first:
+      213: -2666307396081586892
+    second: cyber (1)_188
+  - first:
+      213: 4061151877335527673
+    second: cyber (1)_189
+  - first:
+      213: 5092485385181989465
+    second: cyber (1)_190
+  - first:
+      213: 2739997158602992319
+    second: cyber (1)_191
+  - first:
+      213: 3286965308632896397
+    second: cyber (1)_192
+  - first:
+      213: -255645903378961506
+    second: cyber (1)_193
+  - first:
+      213: 2329437139479186749
+    second: cyber (1)_194
+  - first:
+      213: -9189129901342026449
+    second: cyber (1)_195
+  - first:
+      213: 7545252918715449077
+    second: cyber (1)_196
+  - first:
+      213: -1787511791662453000
+    second: cyber (1)_197
+  - first:
+      213: -299299652046831025
+    second: cyber (1)_198
+  - first:
+      213: -676894533917873414
+    second: cyber (1)_199
+  - first:
+      213: 56691571685145136
+    second: cyber (1)_200
+  - first:
+      213: -423254250107734928
+    second: cyber (1)_201
+  - first:
+      213: 7646951415671140108
+    second: cyber (1)_202
+  - first:
+      213: 6122085447807874458
+    second: cyber (1)_203
+  - first:
+      213: 8260318539385361646
+    second: cyber (1)_204
+  - first:
+      213: -437699721882290802
+    second: cyber (1)_205
+  - first:
+      213: 7369607241079776219
+    second: cyber (1)_206
+  - first:
+      213: 3748552730942036628
+    second: cyber (1)_207
+  - first:
+      213: 2294702547628861210
+    second: cyber (1)_208
+  - first:
+      213: -4399720823365011427
+    second: cyber (1)_209
+  - first:
+      213: -8428181345256704106
+    second: cyber (1)_210
+  - first:
+      213: 6320702345674133563
+    second: cyber (1)_211
+  - first:
+      213: 5324505560466380673
+    second: cyber (1)_212
+  - first:
+      213: -3831520869260791470
+    second: cyber (1)_213
+  - first:
+      213: 4773650782133445236
+    second: cyber (1)_214
+  - first:
+      213: 3111950050083199094
+    second: cyber (1)_215
+  - first:
+      213: 1480226674391042058
+    second: cyber (1)_216
+  - first:
+      213: -5336771966220573903
+    second: cyber (1)_217
+  - first:
+      213: 8762369533769969347
+    second: cyber (1)_218
+  - first:
+      213: -5572478276065091582
+    second: cyber (1)_219
+  - first:
+      213: 6762125309099800828
+    second: cyber (1)_220
+  - first:
+      213: 7057672981145814215
+    second: cyber (1)_221
+  - first:
+      213: -2186820635520665437
+    second: cyber (1)_222
+  - first:
+      213: 3368458878925814369
+    second: cyber (1)_223
+  - first:
+      213: -8495578225035455369
+    second: cyber (1)_224
+  - first:
+      213: 7931104899872063070
+    second: cyber (1)_225
+  - first:
+      213: 6771849615342392763
+    second: cyber (1)_226
+  - first:
+      213: 322267189673353235
+    second: cyber (1)_227
+  - first:
+      213: 3544965546851020994
+    second: cyber (1)_228
+  - first:
+      213: 1331777786383291238
+    second: cyber (1)_229
+  - first:
+      213: 902785256820854800
+    second: cyber (1)_230
+  - first:
+      213: -8339759498479516008
+    second: cyber (1)_231
+  - first:
+      213: -1101782621379951295
+    second: cyber (1)_232
+  - first:
+      213: -2703946293702601433
+    second: cyber (1)_233
+  - first:
+      213: 6431504712922169251
+    second: cyber (1)_234
+  - first:
+      213: 5785759084957937478
+    second: cyber (1)_235
+  - first:
+      213: -2216636654396546366
+    second: cyber (1)_236
+  - first:
+      213: 1834720401847785637
+    second: cyber (1)_237
+  - first:
+      213: 6837847178829029033
+    second: cyber (1)_238
+  - first:
+      213: 8803542150281288414
+    second: cyber (1)_239
+  - first:
+      213: -2492393507325998759
+    second: cyber (1)_240
+  - first:
+      213: -2921396761384861577
+    second: cyber (1)_241
+  - first:
+      213: -309902508868830416
+    second: cyber (1)_242
+  - first:
+      213: 6141392958690420284
+    second: cyber (1)_243
+  - first:
+      213: 4898082479558502730
+    second: cyber (1)_244
+  - first:
+      213: 8301892427114167082
+    second: cyber (1)_245
+  - first:
+      213: -7731945780468642714
+    second: cyber (1)_246
+  - first:
+      213: 9025784276313275881
+    second: cyber (1)_247
+  - first:
+      213: -1628550675605405954
+    second: cyber (1)_248
+  - first:
+      213: 6603487718751915823
+    second: cyber (1)_249
+  - first:
+      213: 4944308424959591472
+    second: cyber (1)_250
+  - first:
+      213: -3193310438905312879
+    second: cyber (1)_251
+  - first:
+      213: -661361246204811295
+    second: cyber (1)_252
+  - first:
+      213: -5198097605467189887
+    second: cyber (1)_253
+  - first:
+      213: -8389226689943561499
+    second: cyber (1)_254
+  - first:
+      213: -1256505853673928269
+    second: cyber (1)_255
+  - first:
+      213: -72969464868828600
+    second: cyber (1)_256
+  - first:
+      213: 3326262746022467310
+    second: cyber (1)_257
+  - first:
+      213: -6903413107274919039
+    second: cyber (1)_258
+  - first:
+      213: -7644766325253471107
+    second: cyber (1)_259
+  - first:
+      213: 3436577563001351642
+    second: cyber (1)_260
+  - first:
+      213: -1148276837022802782
+    second: cyber (1)_261
+  - first:
+      213: 1938970504893713340
+    second: cyber (1)_262
+  - first:
+      213: 910473818839968147
+    second: cyber (1)_263
+  - first:
+      213: 1485186499635604633
+    second: cyber (1)_264
+  - first:
+      213: -604180271790995366
+    second: cyber (1)_265
+  - first:
+      213: 2439862954577960315
+    second: cyber (1)_266
+  - first:
+      213: 6190860105756267491
+    second: cyber (1)_267
+  - first:
+      213: -1732113772053968839
+    second: cyber (1)_268
+  - first:
+      213: -7253756227919676305
+    second: cyber (1)_269
+  - first:
+      213: -4712745190186273650
+    second: cyber (1)_270
+  - first:
+      213: 3954033713663270427
+    second: cyber (1)_271
+  - first:
+      213: -539403187636926144
+    second: cyber (1)_272
+  - first:
+      213: -9207224889999654347
+    second: cyber (1)_273
+  - first:
+      213: -4477296681193195855
+    second: cyber (1)_274
+  - first:
+      213: 1136495162710871068
+    second: cyber (1)_275
+  - first:
+      213: -205831453318263569
+    second: cyber (1)_276
+  - first:
+      213: -253073204340663341
+    second: cyber (1)_277
+  - first:
+      213: -5872054864724213191
+    second: cyber (1)_278
+  - first:
+      213: 6875383848903512407
+    second: cyber (1)_279
+  - first:
+      213: -412355836250860062
+    second: cyber (1)_280
+  - first:
+      213: 4242637594161021563
+    second: cyber (1)_281
+  - first:
+      213: 8788904982319599492
+    second: cyber (1)_282
+  - first:
+      213: 5192965626466825972
+    second: cyber (1)_283
+  - first:
+      213: -9053409578824385878
+    second: cyber (1)_284
+  - first:
+      213: 2134666292742193816
+    second: cyber (1)_285
+  - first:
+      213: -6948519905984078832
+    second: cyber (1)_286
+  - first:
+      213: -7721773067877093478
+    second: cyber (1)_287
+  - first:
+      213: -6723513459977746558
+    second: cyber (1)_288
+  - first:
+      213: -5040525386906858178
+    second: cyber (1)_289
+  - first:
+      213: 10846254518622514
+    second: cyber (1)_290
+  - first:
+      213: -5900081182270636489
+    second: cyber (1)_291
+  - first:
+      213: 2331895135930253343
+    second: cyber (1)_292
+  - first:
+      213: 5729903717731038433
+    second: cyber (1)_293
+  - first:
+      213: -7226910095057641751
+    second: cyber (1)_294
+  - first:
+      213: 2004460962818029330
+    second: cyber (1)_295
+  - first:
+      213: 4068834216971742973
+    second: cyber (1)_296
+  - first:
+      213: 3637420137538848148
+    second: cyber (1)_297
+  - first:
+      213: 2056910101109830395
+    second: cyber (1)_298
+  - first:
+      213: 2407783093235448986
+    second: cyber (1)_299
+  - first:
+      213: 83278412056418100
+    second: cyber (1)_300
+  - first:
+      213: 6378090278260268967
+    second: cyber (1)_301
+  - first:
+      213: -3637694446166313529
+    second: cyber (1)_302
+  - first:
+      213: -6593390442828103061
+    second: cyber (1)_303
+  - first:
+      213: -4177115816936371298
+    second: cyber (1)_304
+  - first:
+      213: -7313575650897719178
+    second: cyber (1)_305
+  - first:
+      213: -729098490961888037
+    second: cyber (1)_306
+  - first:
+      213: -8868987612467911628
+    second: cyber (1)_307
+  - first:
+      213: -4560537546918493869
+    second: cyber (1)_308
+  - first:
+      213: 5425898872157143010
+    second: cyber (1)_309
+  - first:
+      213: -3067945603336755132
+    second: cyber (1)_310
+  - first:
+      213: 7990481365323229584
+    second: cyber (1)_311
+  - first:
+      213: -133925096714167713
+    second: cyber (1)_312
+  - first:
+      213: -6275167460898862100
+    second: cyber (1)_313
+  - first:
+      213: -348814319225098856
+    second: cyber (1)_314
+  - first:
+      213: 6033063007094379824
+    second: cyber (1)_315
+  - first:
+      213: 8083840023728414296
+    second: cyber (1)_316
+  - first:
+      213: 2802215783347966423
+    second: cyber (1)_317
+  - first:
+      213: 6866153797416912023
+    second: cyber (1)_318
+  - first:
+      213: 5962558645058228032
+    second: cyber (1)_319
+  - first:
+      213: 7255781791967911241
+    second: cyber (1)_320
+  - first:
+      213: -7798369060148580543
+    second: cyber (1)_321
+  - first:
+      213: -3111690047308437423
+    second: cyber (1)_322
+  - first:
+      213: 5879810066410838137
+    second: cyber (1)_323
+  - first:
+      213: 6784577100028088026
+    second: cyber (1)_324
+  - first:
+      213: 4174223875830156714
+    second: cyber (1)_325
+  - first:
+      213: -8072959810908956506
+    second: cyber (1)_326
+  - first:
+      213: -5719771008157345404
+    second: cyber (1)_327
+  - first:
+      213: -7085599741311236120
+    second: cyber (1)_328
+  - first:
+      213: -7883129840221737194
+    second: cyber (1)_329
+  - first:
+      213: -8832597723927589690
+    second: cyber (1)_330
+  - first:
+      213: 6069160894791330766
+    second: cyber (1)_331
+  - first:
+      213: 934138980635781109
+    second: cyber (1)_332
+  - first:
+      213: 8922696837874606049
+    second: cyber (1)_333
+  - first:
+      213: 5440532721353815597
+    second: cyber (1)_334
+  - first:
+      213: -8330744565244457044
+    second: cyber (1)_335
+  - first:
+      213: 1256506996290102992
+    second: cyber (1)_336
+  - first:
+      213: 116859522871606800
+    second: cyber (1)_337
+  - first:
+      213: -6854493143226852959
+    second: cyber (1)_338
+  - first:
+      213: 8373368651448621563
+    second: cyber (1)_339
+  - first:
+      213: 3462379337474443852
+    second: cyber (1)_340
+  - first:
+      213: 4708233759392056782
+    second: cyber (1)_341
+  - first:
+      213: 577162156974412740
+    second: cyber (1)_342
+  - first:
+      213: 7384931636364438764
+    second: cyber (1)_343
+  - first:
+      213: -1016636683008566260
+    second: cyber (1)_344
+  - first:
+      213: -2640468996155189685
+    second: cyber (1)_345
+  - first:
+      213: 695624791419851046
+    second: cyber (1)_346
+  - first:
+      213: -4395093525378346258
+    second: cyber (1)_347
+  - first:
+      213: 898629925483391913
+    second: cyber (1)_348
+  - first:
+      213: 7601132278876415240
+    second: cyber (1)_349
+  - first:
+      213: -3416731796730674015
+    second: cyber (1)_350
+  - first:
+      213: 2237823267590113416
+    second: cyber (1)_351
+  - first:
+      213: 1307531314416207633
+    second: cyber (1)_352
+  - first:
+      213: -8880342994036697960
+    second: cyber (1)_353
+  - first:
+      213: 3575274312917437037
+    second: cyber (1)_354
+  - first:
+      213: 1758939678326571447
+    second: cyber (1)_355
+  - first:
+      213: 5539066627030432017
+    second: cyber (1)_356
+  - first:
+      213: 3615419126190686041
+    second: cyber (1)_357
+  - first:
+      213: 1217331050457077340
+    second: cyber (1)_358
+  - first:
+      213: -7520125094365008261
+    second: cyber (1)_359
+  - first:
+      213: 8745217720666544568
+    second: cyber (1)_360
+  - first:
+      213: -828459396390881061
+    second: cyber (1)_361
+  - first:
+      213: -4744615821309170133
+    second: cyber (1)_362
+  - first:
+      213: -1927328446661829167
+    second: cyber (1)_363
+  - first:
+      213: -1966456941946003849
+    second: cyber (1)_364
+  - first:
+      213: -2540640037398852869
+    second: cyber (1)_365
+  - first:
+      213: -4331257857220216058
+    second: cyber (1)_366
+  - first:
+      213: -4183276621488515357
+    second: cyber (1)_367
+  - first:
+      213: -1424352905506330827
+    second: cyber (1)_368
+  - first:
+      213: 7517851665510800071
+    second: cyber (1)_369
+  - first:
+      213: 5095500476488111237
+    second: cyber (1)_370
+  - first:
+      213: 6372260363895116664
+    second: cyber (1)_371
+  - first:
+      213: -1379455085606374193
+    second: cyber (1)_372
+  - first:
+      213: 4790668611440580371
+    second: cyber (1)_373
+  - first:
+      213: 8249610671880999087
+    second: cyber (1)_374
+  - first:
+      213: -5504175745755240158
+    second: cyber (1)_375
+  - first:
+      213: -6731834801107896558
+    second: cyber (1)_376
+  - first:
+      213: 4725884032854469100
+    second: cyber (1)_377
+  - first:
+      213: 2937701724796531761
+    second: cyber (1)_378
+  - first:
+      213: -639567003134060687
+    second: cyber (1)_379
+  - first:
+      213: 6353737775536620154
+    second: cyber (1)_380
+  - first:
+      213: -7048777868258644002
+    second: cyber (1)_381
+  - first:
+      213: 794482436409366294
+    second: cyber (1)_382
+  - first:
+      213: -1930373183386494752
+    second: cyber (1)_383
+  - first:
+      213: 4308991609932764752
+    second: cyber (1)_384
+  - first:
+      213: 7296109248331893670
+    second: cyber (1)_385
+  - first:
+      213: -2286845274146947535
+    second: cyber (1)_386
+  - first:
+      213: 7696841658815218929
+    second: cyber (1)_387
+  - first:
+      213: -2778234269625037527
+    second: cyber (1)_388
+  - first:
+      213: -6717684936600279332
+    second: cyber (1)_389
+  - first:
+      213: 7521425588098086542
+    second: cyber (1)_390
+  - first:
+      213: 666522856756052139
+    second: cyber (1)_391
+  - first:
+      213: -8895647018606155692
+    second: cyber (1)_392
+  - first:
+      213: -5785535174197221078
+    second: cyber (1)_393
+  - first:
+      213: -3982850684410702604
+    second: cyber (1)_394
+  - first:
+      213: -6790997420330762281
+    second: cyber (1)_395
+  - first:
+      213: 5888266909350883993
+    second: cyber (1)_396
+  - first:
+      213: 8965810648244504560
+    second: cyber (1)_397
+  - first:
+      213: -9015063389909903884
+    second: cyber (1)_398
+  - first:
+      213: -1856166748686635293
+    second: cyber (1)_399
+  - first:
+      213: 493975476480042431
+    second: cyber (1)_400
+  - first:
+      213: 7789153443283753173
+    second: cyber (1)_401
+  - first:
+      213: 635039225369075966
+    second: cyber (1)_402
+  - first:
+      213: -4376692729022237916
+    second: cyber (1)_403
+  - first:
+      213: -7216151849147634408
+    second: cyber (1)_404
+  - first:
+      213: 5552026897516968185
+    second: cyber (1)_405
+  - first:
+      213: -5540648349147621110
+    second: cyber (1)_406
+  - first:
+      213: 8139633292797319766
+    second: cyber (1)_407
+  - first:
+      213: 4623342566022943756
+    second: cyber (1)_408
+  - first:
+      213: 1841903063604403568
+    second: cyber (1)_409
+  - first:
+      213: 2612581365313002859
+    second: cyber (1)_410
+  - first:
+      213: 7674000505418684740
+    second: cyber (1)_411
+  - first:
+      213: -8301770371555318591
+    second: cyber (1)_412
+  - first:
+      213: 6629641193155875777
+    second: cyber (1)_413
+  - first:
+      213: 3273060175799986884
+    second: cyber (1)_414
+  - first:
+      213: -8628576352276402130
+    second: cyber (1)_415
+  - first:
+      213: -8769782479024417403
+    second: cyber (1)_416
+  - first:
+      213: -8446723635594560917
+    second: cyber (1)_417
+  - first:
+      213: 5947623628342521942
+    second: cyber (1)_418
+  - first:
+      213: -2759030202695038473
+    second: cyber (1)_419
+  - first:
+      213: 8420380214062845870
+    second: cyber (1)_420
+  - first:
+      213: 785671644143395698
+    second: cyber (1)_421
+  - first:
+      213: -6196414209585749445
+    second: cyber (1)_422
+  - first:
+      213: -85999402439121677
+    second: cyber (1)_423
+  - first:
+      213: -7086829107978384447
+    second: cyber (1)_424
+  - first:
+      213: -2291678308132707723
+    second: cyber (1)_425
+  - first:
+      213: -2006114864270043854
+    second: cyber (1)_426
+  - first:
+      213: 2197043146619697257
+    second: cyber (1)_427
+  - first:
+      213: -4068023395079539962
+    second: cyber (1)_428
+  - first:
+      213: 2624304334123191423
+    second: cyber (1)_429
+  - first:
+      213: -1246706992869380715
+    second: cyber (1)_430
+  - first:
+      213: -6154018927280005211
+    second: cyber (1)_431
+  - first:
+      213: -8352695678936304624
+    second: cyber (1)_432
+  - first:
+      213: 3148813134248014040
+    second: cyber (1)_433
+  - first:
+      213: -6479772613934329488
+    second: cyber (1)_434
+  - first:
+      213: 4324889191869316173
+    second: cyber (1)_435
+  - first:
+      213: 62515870315956694
+    second: cyber (1)_436
+  - first:
+      213: 361449894085958317
+    second: cyber (1)_437
+  - first:
+      213: 3889994704565669499
+    second: cyber (1)_438
+  - first:
+      213: -1335287029252708003
+    second: cyber (1)_439
+  - first:
+      213: 3886307767878092633
+    second: cyber (1)_440
+  - first:
+      213: 8017751393278991290
+    second: cyber (1)_441
+  - first:
+      213: 8271553137200172942
+    second: cyber (1)_442
+  - first:
+      213: -5196204914456775320
+    second: cyber (1)_443
+  - first:
+      213: 393950322870933958
+    second: cyber (1)_444
+  - first:
+      213: -1126228241458770231
+    second: cyber (1)_445
+  - first:
+      213: 5386770664438677663
+    second: cyber (1)_446
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cyber (1)_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 807
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcc675ec18a4ed80800000000000000
+      internalID: -8222262177609364231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 801
+        width: 214
+        height: 215
+      alignment: 9
+      pivot: {x: 0.50378287, y: 0.52406913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37bd7772f3a3e90800000000000000
+      internalID: -7045249228320574488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_2
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 804
+        width: 215
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2262f005c34d9600800000000000000
+      internalID: 476611648974643754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_3
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 802
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e92094ea5db0d60800000000000000
+      internalID: 7857608919403896382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 796
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9ca5b1daaa0ec50800000000000000
+      internalID: 6692536706737555946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 800
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2011f119ba33f1b80800000000000000
+      internalID: -8421955966192381694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 804
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ba918e9875f8c0800000000000000
+      internalID: -3966131274655288013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 548
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aa0f5a71b8171c0800000000000000
+      internalID: -4507668818336634330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 556
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7b205deb8c8370800000000000000
+      internalID: 8326183662469741855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_9
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 550
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64288910af631e410800000000000000
+      internalID: 1504544197914952262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_10
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 542
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d98b8dee3bb2490800000000000000
+      internalID: -7769918893678092930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 539
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b73808b2f63bdc30800000000000000
+      internalID: 4385159078272841657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 534
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1352d42bb9c29a6a0800000000000000
+      internalID: -6437565145126460111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 534
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd26de1895a16720800000000000000
+      internalID: 2837731312991088073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 266
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b813118d1ce1acc0800000000000000
+      internalID: -3701417807258117961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 252
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001f7c510cb6b3f80800000000000000
+      internalID: -8125782629916610304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_16
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 255
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bbb2c0ef76ea1b0800000000000000
+      internalID: -5643458942225106135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_17
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 257
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfe08e82547da000800000000000000
+      internalID: 48823068897898443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 259
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad144b786dd1f4890800000000000000
+      internalID: -7471720449547419174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 261
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0a6b83f246f0b70800000000000000
+      internalID: 8867416345293529259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 261
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec00d69a5b449b0800000000000000
+      internalID: -5096749138993689034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 9
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1301dcd52b04cf1b0800000000000000
+      internalID: -5621547100043145167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 6
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3d2873c079dbbe0800000000000000
+      internalID: -1459844625471450158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_23
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 16
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ee41fb033500b00800000000000000
+      internalID: 792725003246562950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_24
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 14
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9bba5145293920800000000000000
+      internalID: 2970446391852899423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 11
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8888d4a2117dd600800000000000000
+      internalID: 494675858969626764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 17
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e213d0df806176ac0800000000000000
+      internalID: -3862093927585861330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cyber (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 21
+        width: 215
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b971eeecfd0c00800000000000000
+      internalID: 868628406067639426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

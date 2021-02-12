@@ -1,0 +1,66 @@
+{
+    "stamp": "by 5f8faded424af9f7fa64eca1 at 27 октября 2020 г. 23:54:58",
+    "appId": "5f98804206527f00088c2d06",
+    "appName": "In the darkness",
+    "versionId": "5f98804206527f00088c2d07",
+    "versionStatus": 0,
+    "versionSeq": 0,
+    "sdkRev": "2000",
+    "scenesList": [
+        {
+            "sceneName": "SomeScene",
+            "id": "5f9882111331bf000812c52e",
+            "currentScenePath": "Assets/Scenes/SomeScene.unity",
+            "pathsHistory": [
+                "Assets/Scenes/SomeScene.unity"
+            ],
+            "placementsList": [
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9657cea8d42a8b60ac4",
+                    "idInFile": 674922403,
+                    "placementType": 0,
+                    "placementId": "5f988765107dbc00080daf1f",
+                    "placementName": "1Sf0ulUhaPheMKZTCW1J",
+                    "placementDisplayName": "Banner_food",
+                    "sceneId": "5f9882111331bf000812c52e",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 600.0
+                    }
+                },
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9657cea8d42a8b60ac4",
+                    "idInFile": 1230414491,
+                    "placementType": 0,
+                    "placementId": "5f988765107dbc00080daf20",
+                    "placementName": "mzqyIk6j9J5IM5cSlRrV",
+                    "placementDisplayName": "Banner_technology",
+                    "sceneId": "5f9882111331bf000812c52e",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 600.0
+                    }
+                },
+                {
+                    "isSavedPlacement": true,
+                    "invalidReason": "",
+                    "modelKey": "5ee7e9657cea8d42a8b60ac4",
+                    "idInFile": 1902315367,
+                    "placementType": 0,
+                    "placementId": "5f988765107dbc00080daf21",
+                    "placementName": "IgBYWjfk8DRdMooS5MS8",
+                    "placementDisplayName": "Banner_science",
+                    "sceneId": "5f9882111331bf000812c52e",
+                    "textureResolution": {
+                        "x": 300.0,
+                        "y": 600.0
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1407220144, guid: abf3c058d94959640bec02372a894b38, type: 3}
+  m_Name: SaveManager
+  m_EditorClassIdentifier: 
+  fileCache:
+    stamp: "by 5f8faded424af9f7fa64eca1 at 28 \u043E\u043A\u0442\u044F\u0431\u0440\u044F
+      2020 \u0433. 0:00:26"
+    appId: 5f988a5b759e6300084a58fd
+    appName: Cyberdrunk
+    versionId: 5f988a5b759e6300084a58fe
+    versionStatus: 0
+    versionSeq: 0
+    sdkRev: 2000
+    scenesList:
+    - sceneName: SomeScene
+      id: 5f988a6626132c00090df60d
+      currentScenePath: Assets/Scenes/SomeScene.unity
+      pathsHistory:
+      - Assets/Scenes/SomeScene.unity
+      placementsList:
+      - isSavedPlacement: 1
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 674922403
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee3
+        placementName: 1Sf0ulUhaPheMKZTCW1J
+        placementDisplayName: Banner_food
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 300, y: 600}
+      - isSavedPlacement: 1
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 1230414491
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee4
+        placementName: mzqyIk6j9J5IM5cSlRrV
+        placementDisplayName: Banner_technology
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 300, y: 600}
+      - isSavedPlacement: 1
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 1902315367
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee5
+        placementName: IgBYWjfk8DRdMooS5MS8
+        placementDisplayName: Banner_science
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 300, y: 600}
+      - isSavedPlacement: 0
+        invalidReason: id clone
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 1790885728
+        placementType: 0
+        placementId: 5f9a115333a43c0008d64a3b
+        placementName: dXFcRBfgBXpsHaW0Gox8
+        placementDisplayName: Banner_food
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 300, y: 600}
+  projectScanCache:
+    stamp: 
+    appId: 5f988a5b759e6300084a58fd
+    appName: Cyberdrunk
+    versionId: 
+    versionStatus: 0
+    versionSeq: 0
+    sdkRev: 2000
+    scenesList:
+    - sceneName: SomeScene
+      id: 5f988a6626132c00090df60d
+      currentScenePath: Assets/Scenes/SomeScene.unity
+      pathsHistory: []
+      placementsList:
+      - isSavedPlacement: 1
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 674922403
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee3
+        placementName: 1Sf0ulUhaPheMKZTCW1J
+        placementDisplayName: Banner_food
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 300, y: 600}
+      - isSavedPlacement: 1
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 1230414491
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee4
+        placementName: mzqyIk6j9J5IM5cSlRrV
+        placementDisplayName: Banner_technology
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 300, y: 600}
+      - isSavedPlacement: 1
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 1902315367
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee5
+        placementName: IgBYWjfk8DRdMooS5MS8
+        placementDisplayName: Banner_science
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 300, y: 600}
+      - isSavedPlacement: 0
+        invalidReason: id clone
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 1790885728
+        placementType: 0
+        placementId: 5f9a115333a43c0008d64a3b
+        placementName: dXFcRBfgBXpsHaW0Gox8
+        placementDisplayName: Banner_food
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 300, y: 600}
+  remoteCache:
+    stamp: 
+    appId: 5f988a5b759e6300084a58fd
+    appName: Cyberdrunk
+    versionId: 5f988a5b759e6300084a58fe
+    versionStatus: 0
+    versionSeq: 0
+    sdkRev: 
+    scenesList:
+    - sceneName: SomeScene
+      id: 5f988a6626132c00090df60d
+      currentScenePath: 
+      pathsHistory: []
+      placementsList:
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 0
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee3
+        placementName: 1Sf0ulUhaPheMKZTCW1J
+        placementDisplayName: Banner_food
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 0, y: 0}
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 0
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee4
+        placementName: mzqyIk6j9J5IM5cSlRrV
+        placementDisplayName: Banner_technology
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 0, y: 0}
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 0
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee5
+        placementName: IgBYWjfk8DRdMooS5MS8
+        placementDisplayName: Banner_science
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 0, y: 0}
+  remotePostSaveCache:
+    stamp: 
+    appId: 5f988a5b759e6300084a58fd
+    appName: Cyberdrunk
+    versionId: 5f988a5b759e6300084a58fe
+    versionStatus: 0
+    versionSeq: 0
+    sdkRev: 
+    scenesList:
+    - sceneName: SomeScene
+      id: 5f988a6626132c00090df60d
+      currentScenePath: 
+      pathsHistory: []
+      placementsList:
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 0
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee3
+        placementName: 1Sf0ulUhaPheMKZTCW1J
+        placementDisplayName: Banner_food
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 0, y: 0}
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 0
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee4
+        placementName: mzqyIk6j9J5IM5cSlRrV
+        placementDisplayName: Banner_technology
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 0, y: 0}
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 0
+        placementType: 0
+        placementId: 5f988a6a8e04dd000743aee5
+        placementName: IgBYWjfk8DRdMooS5MS8
+        placementDisplayName: Banner_science
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 0, y: 0}
+      - isSavedPlacement: 0
+        invalidReason: 
+        modelKey: 5ee7e9657cea8d42a8b60ac4
+        idInFile: 0
+        placementType: 0
+        placementId: 5f9a115333a43c0008d64a3b
+        placementName: dXFcRBfgBXpsHaW0Gox8
+        placementDisplayName: Banner_food
+        sceneId: 5f988a6626132c00090df60d
+        textureResolution: {x: 0, y: 0}
+  placementsToHide: []
